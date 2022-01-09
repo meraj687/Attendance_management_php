@@ -52,7 +52,7 @@
 
     if($name=="" || $fname=="" ||$email==""){
       echo "<div class='alert alert-danger'>
-      Fied must not be empty
+      Field must not be empty
      </div>";
     }
    

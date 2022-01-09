@@ -34,7 +34,8 @@
    <a href="add.php" class="btn btn-primary pull-right" style="float:right">Add</a>
 
   <form method="post">
-  <table class="table">
+    <div class="table-responsive">
+  <table class="table ">
    <thead>
 
    <tr>
@@ -125,6 +126,7 @@
 ?>
 
   </table>
+</div>
   <input type="submit" class="btn btn-primary" value="Take Attendance">
 </form>
   </div>

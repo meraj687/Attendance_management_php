@@ -45,6 +45,7 @@
    <a href="add.php" class="btn btn-primary pull-right" style="float:right">Add</a>
 
   <form method="post">
+     <div class="table-responsive">
   <table class="table">
    <thead>
 
@@ -73,6 +74,7 @@
 
    </tr>
       <?php }} ?>
+       </div>
 
   </div>
 
